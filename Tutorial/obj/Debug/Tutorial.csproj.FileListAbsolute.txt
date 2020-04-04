@@ -1,0 +1,6 @@
+C:\Build_Tutorial\Tutorial.dll
+C:\Build_Tutorial\Tutorial.pdb
+D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Tutorial\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
+D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Tutorial\Tutorial\obj\Debug\Tutorial.dll
+D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
