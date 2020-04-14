@@ -1,10 +1,11 @@
-C:\Build_Tutorial\Tutorial.dll
-C:\Build_Tutorial\Tutorial.pdb
 D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Tutorial\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
 D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
 D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Tutorial\Tutorial\obj\Debug\Tutorial.dll
 D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
-D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Repo\GrasshopperCSharpTutorial\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
+C:\Build_Tutorial\Tutorial.dll
+C:\Build_Tutorial\Tutorial.pdb
+D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Repo\GrasshopperCSharpTutorial\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Repo\GrasshopperCSharpTutorial\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.cache
 D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Repo\GrasshopperCSharpTutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
 D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Repo\GrasshopperCSharpTutorial\Tutorial\obj\Debug\Tutorial.csproj.CopyComplete
 D:\OneDrive\Desktop\Tutorial_Series\06_CSharp\Repo\GrasshopperCSharpTutorial\Tutorial\obj\Debug\Tutorial.dll

@@ -10,7 +10,7 @@ namespace Tutorial
         {
             get
             {
-                return "Tutorial Plugin";
+                return "XBox Controller Plugin";
             }
         }
         public override Bitmap Icon
@@ -18,7 +18,7 @@ namespace Tutorial
             get
             {
                 //Return a 24x24 pixel bitmap to represent this GHA library.
-                return null;
+                return Tutorial.Properties.Resources.Xbox_icon;
             }
         }
         public override string Description
